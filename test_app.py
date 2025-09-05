@@ -7,4 +7,4 @@ def test_soma():
 def test_multiplica():
     assert multiplica(2, 3) == 6
     assert multiplica(-1, 1) == -1
-    assert sommultiplicaa(0, 0) == 0
+    assert multiplica(0, 0) == 0
